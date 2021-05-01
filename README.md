@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prathameshmane
 - 👀 I’m interested in Coding, Sports, Esports
-- 🌱 I’m Persuing MSc in Computer Science
+- 🌱 I’m Pursuing MSc in Computer Science
 - 💞️ I’m looking to collaborate on MNC's
 - 📫 You can reach me on 'Prathameshmane3@gmail.com'
 
