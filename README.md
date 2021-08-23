@@ -5,8 +5,10 @@ Good listener, learner, and Love Photography too.
 Kaggle - Competitions Contributor 
 https://www.kaggle.com/prathameshmane3
 
-GitHub - https://github.com/Prathameshmane
+LinkedIn - https://www.linkedin.com/in/prathamesh-mane-285933197
+
 Twitter - https://twitter.com/Prathm_333
+
 Hackerrank - https://www.hackerrank.com/Prathameshmane3
 
 Photography Page - https://www.instagram.com/pratham_grapher/
