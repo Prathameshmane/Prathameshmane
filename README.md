@@ -1,8 +1,8 @@
-I am Beginner-level Data Scientist. <b />
-I like to take Participate in Coding Competitions.
-I Love Playing with Data. 
-I am a Good Listener, Learner, and Leader.
-I Love Mathematics and Photography.
+I am Beginner-level Data Scientist.<br />
+I like to take Participate in Coding Competitions.<br />
+I Love Playing with Data.<br />
+I am a Good Listener, Learner, and Leader.<br />
+I Love Mathematics and Photography.<br />
 
 Kaggle - Competitions Contributor 
 https://www.kaggle.com/prathameshmane3
