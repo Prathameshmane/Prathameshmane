@@ -1,4 +1,4 @@
-I am Beginner-level Data Scientist.<br />
+I am Data Science Enthusiast.<br />
 I like to take Participate in Coding Competitions.<br />
 I Love Playing with Data.<br />
 I am a Good Listener, Learner, and Leader.<br />
