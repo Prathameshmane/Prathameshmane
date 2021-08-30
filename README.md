@@ -4,9 +4,7 @@ I Love Playing with Data.<br />
 I am a Good Listener, Learner, and Leader.<br />
 I Love Mathematics and Photography.<br />
 
-Kaggle - (Competitions Contributor)<br /> 
-https://www.kaggle.com/prathameshmane3
-
+Kaggle - https://www.kaggle.com/prathameshmane3<br /> 
 LinkedIn - https://www.linkedin.com/in/prathameshmane<br />
 Twitter - https://twitter.com/Prathm_333<br />
 Tableau Public - https://public.tableau.com/app/profile/prathamesh.dilip.mane <br />
